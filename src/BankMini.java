@@ -34,9 +34,8 @@ public class BankMini {
 
         System.out.println("Saldo akhir:");
         rekening.cetakInfo();
-// rekening.saldo = 1000000;
-// Error: 'saldo' has private access in 'Rekening'
+
         // rekening.saldo = 1000000;
-        // Pesan error: saldo has private access in Rekening
+        // Error: 'saldo' has private access in 'Rekening'
     }
 }
